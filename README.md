@@ -13,7 +13,7 @@ Welcome to the Card Flip Game! This engaging single-player memory challenge invi
 
 ## Demo
 
-[https://card-flip-game-gules.vercel.app](#)
+[https://card-flip-game-gules.vercel.app](https://card-flip-game-gules.vercel.app)
 
 ## Installation
 
